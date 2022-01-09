@@ -26,7 +26,7 @@ def rankgame(df, type, column):
     df["totalscore"] = df["metascore"] + df["userscore"]
     if column == 'all':
         df_rankgame = df.sort_values(by=['totalscore'], ascending=(type == 'worst')).head(10)
-        df_rankgame['rank'] = df_rankgame.totalscore.rank(method='first', ascending=False)
+        df_rankgame['rank'] = df_rankgame.totalscore.rank(method='first', ascending=type == 'worst')
     else:
         df_rankgame = df.sort_values(by=[column, 'totalscore'], ascending=(type == 'worst')).groupby(column).head(10)
         df_rankgame['rank'] = df_rankgame.groupby(column).cumcount()+1
