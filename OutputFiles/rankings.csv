@@ -1,0 +1,501 @@
+console,name,company,metascore,userscore,totalscore,rankcategory,rank
+XONE,Grand Theft Auto V,Microsoft,97,7.8,104.8,top10console,1.0
+XONE,Red Dead Redemption 2,Microsoft,98,5.9,103.9,top10console,2.0
+XONE,Metal Gear Solid V: The Phantom Pain,Microsoft,95,7.4,102.4,top10console,3.0
+XONE,INSIDE,Microsoft,93,8.2,101.2,top10console,4.0
+XONE,Divinity: Original Sin II - Definitive Edition,Microsoft,93,7.5,100.5,top10console,5.0
+XONE,Celeste,Microsoft,94,6.4,100.4,top10console,6.0
+XONE,The Witcher 3: Wild Hunt,Microsoft,91,9.2,100.2,top10console,7.0
+XONE,Forza Horizon 4,Microsoft,92,7.7,99.7,top10console,8.0
+XONE,What Remains of Edith Finch,Microsoft,92,7.4,99.4,top10console,9.0
+XONE,Dead Cells,Microsoft,91,8.0,99.0,top10console,10.0
+XBOX,Halo: Combat Evolved,Microsoft,97,8.6,105.6,top10console,1.0
+XBOX,Grand Theft Auto Double Pack,Microsoft,96,8.0,104.0,top10console,2.0
+XBOX,Halo 2,Microsoft,95,8.2,103.2,top10console,3.0
+XBOX,Star Wars: Knights of the Old Republic,Microsoft,94,9.0,103.0,top10console,4.0
+XBOX,Tom Clancy's Splinter Cell Chaos Theory,Microsoft,94,8.9,102.9,top10console,5.0
+XBOX,Ninja Gaiden Black,Microsoft,94,8.7,102.7,top10console,6.0
+XBOX,Grand Theft Auto: San Andreas,Microsoft,93,8.7,101.7,top10console,7.0
+XBOX,Tom Clancy's Splinter Cell Pandora Tomorrow,Microsoft,93,8.6,101.6,top10console,8.0
+XBOX,Tom Clancy's Splinter Cell,Microsoft,93,8.6,101.6,top10console,9.0
+XBOX,Burnout 3: Takedown,Microsoft,94,7.4,101.4,top10console,10.0
+X360,Grand Theft Auto IV,Microsoft,98,7.9,105.9,top10console,1.0
+X360,Grand Theft Auto V,Microsoft,97,8.3,105.3,top10console,2.0
+X360,Mass Effect 2,Microsoft,96,8.9,104.9,top10console,3.0
+X360,BioShock,Microsoft,96,8.9,104.9,top10console,4.0
+X360,The Orange Box,Microsoft,96,8.8,104.8,top10console,5.0
+X360,The Elder Scrolls V: Skyrim,Microsoft,96,8.5,104.5,top10console,6.0
+X360,Red Dead Redemption,Microsoft,95,9.0,104.0,top10console,7.0
+X360,Portal 2,Microsoft,95,8.7,103.7,top10console,8.0
+X360,Batman: Arkham City,Microsoft,94,8.7,102.7,top10console,9.0
+X360,The Elder Scrolls IV: Oblivion,Microsoft,94,8.7,102.7,top10console,10.0
+WIIU,The Legend of Zelda: Breath of the Wild,Nintendo,96,8.2,104.2,top10console,1.0
+WIIU,Super Mario 3D World,Nintendo,93,8.9,101.9,top10console,2.0
+WIIU,Super Smash Bros. for Wii U,Nintendo,92,9.0,101.0,top10console,3.0
+WIIU,Rayman Legends,Nintendo,92,8.7,100.7,top10console,4.0
+WIIU,Bayonetta 2,Nintendo,91,9.0,100.0,top10console,5.0
+WIIU,The Legend of Zelda: The Wind Waker HD,Nintendo,90,8.9,98.9,top10console,6.0
+WIIU,Mario Kart 8 DLC Pack 2,Nintendo,90,8.9,98.9,top10console,7.0
+WIIU,Guacamelee! Super Turbo Championship Edition,Nintendo,90,7.6,97.6,top10console,8.0
+WIIU,Axiom Verge,Nintendo,89,8.6,97.6,top10console,9.0
+WIIU,Mario Kart 8,Nintendo,88,8.9,96.9,top10console,10.0
+WII,Super Mario Galaxy 2,Nintendo,97,9.1,106.1,top10console,1.0
+WII,Super Mario Galaxy,Nintendo,97,9.0,106.0,top10console,2.0
+WII,The Legend of Zelda: Twilight Princess,Nintendo,95,9.0,104.0,top10console,3.0
+WII,World of Goo,Nintendo,94,8.7,102.7,top10console,4.0
+WII,Super Smash Bros. Brawl,Nintendo,93,8.9,101.9,top10console,5.0
+WII,Xenoblade Chronicles,Nintendo,92,9.2,101.2,top10console,6.0
+WII,The Legend of Zelda: Skyward Sword,Nintendo,93,8.1,101.1,top10console,7.0
+WII,Rayman Origins,Nintendo,92,8.5,100.5,top10console,8.0
+WII,Metroid Prime Trilogy,Nintendo,91,9.1,100.1,top10console,9.0
+WII,Resident Evil 4: Wii Edition,Nintendo,91,9.0,100.0,top10console,10.0
+VITA,Persona 4 Golden,Sony,93,8.9,101.9,top10console,1.0
+VITA,Velocity 2X,Sony,90,7.2,97.2,top10console,2.0
+VITA,LittleBigPlanet PS Vita,Sony,88,8.6,96.6,top10console,3.0
+VITA,Rayman Origins,Sony,88,8.4,96.4,top10console,4.0
+VITA,Spelunky,Sony,88,7.9,95.9,top10console,5.0
+VITA,Tearaway,Sony,87,8.9,95.9,top10console,6.0
+VITA,Rayman Legends,Sony,87,8.4,95.4,top10console,7.0
+VITA,Guacamelee!,Sony,87,8.3,95.3,top10console,8.0
+VITA,Velocity Ultra,Sony,87,7.9,94.9,top10console,9.0
+VITA,Final Fantasy X / X-2 HD Remaster,Sony,86,8.9,94.9,top10console,10.0
+Switch,Super Mario Odyssey,Nintendo,97,8.9,105.9,top10console,1.0
+Switch,The Legend of Zelda: Breath of the Wild,Nintendo,97,8.5,105.5,top10console,2.0
+Switch,Undertale,Nintendo,93,8.1,101.1,top10console,3.0
+Switch,Mario Kart 8 Deluxe,Nintendo,92,8.6,100.6,top10console,4.0
+Switch,Bayonetta 2,Nintendo,92,8.4,100.4,top10console,5.0
+Switch,Celeste,Nintendo,92,8.3,100.3,top10console,6.0
+Switch,Sonic Mania Plus,Nintendo,91,8.8,99.8,top10console,7.0
+Switch,SteamWorld Heist: Ultimate Edition,Nintendo,91,8.4,99.4,top10console,8.0
+Switch,INSIDE,Nintendo,91,8.2,99.2,top10console,9.0
+Switch,Shovel Knight: Treasure Trove,Nintendo,91,8.2,99.2,top10console,10.0
+PSP,God of War: Chains of Olympus,Sony,91,8.6,99.6,top10console,1.0
+PSP,Metal Gear Solid: Peace Walker,Sony,89,8.8,97.8,top10console,2.0
+PSP,Grand Theft Auto: Chinatown Wars,Sony,90,7.4,97.4,top10console,3.0
+PSP,Final Fantasy Tactics: The War of the Lions,Sony,88,8.9,96.9,top10console,4.0
+PSP,Shin Megami Tensei: Persona 3 Portable,Sony,89,7.8,96.8,top10console,5.0
+PSP,Tekken: Dark Resurrection,Sony,88,8.5,96.5,top10console,6.0
+PSP,Ridge Racer,Sony,88,8.2,96.2,top10console,7.0
+PSP,Wipeout Pure,Sony,88,8.0,96.0,top10console,8.0
+PSP,Syphon Filter: Dark Mirror,Sony,87,8.9,95.9,top10console,9.0
+PSP,Tactics Ogre: Let Us Cling Together,Sony,87,8.8,95.8,top10console,10.0
+PS4,Grand Theft Auto V,Sony,97,8.3,105.3,top10console,1.0
+PS4,Red Dead Redemption 2,Sony,97,7.7,104.7,top10console,2.0
+PS4,The Last of Us Remastered,Sony,95,9.1,104.1,top10console,3.0
+PS4,God of War,Sony,94,9.2,103.2,top10console,4.0
+PS4,Persona 5,Sony,93,9.0,102.0,top10console,5.0
+PS4,Uncharted 4: A Thief's End,Sony,93,8.3,101.3,top10console,6.0
+PS4,Metal Gear Solid V: The Phantom Pain,Sony,93,8.2,101.2,top10console,7.0
+PS4,The Witcher 3: Wild Hunt,Sony,92,9.2,101.2,top10console,8.0
+PS4,Bloodborne,Sony,92,8.9,100.9,top10console,9.0
+PS4,Journey,Sony,92,8.4,100.4,top10console,10.0
+PS3,Grand Theft Auto IV,Sony,98,7.5,105.5,top10console,1.0
+PS3,Grand Theft Auto V,Sony,97,8.3,105.3,top10console,2.0
+PS3,Uncharted 2: Among Thieves,Sony,96,8.9,104.9,top10console,3.0
+PS3,Batman: Arkham City,Sony,96,8.7,104.7,top10console,4.0
+PS3,The Last of Us,Sony,95,9.2,104.2,top10console,5.0
+PS3,Red Dead Redemption,Sony,95,8.9,103.9,top10console,6.0
+PS3,Portal 2,Sony,95,8.5,103.5,top10console,7.0
+PS3,Metal Gear Solid 4: Guns of the Patriots,Sony,94,8.8,102.8,top10console,8.0
+PS3,BioShock,Sony,94,8.7,102.7,top10console,9.0
+PS3,BioShock Infinite,Sony,94,8.5,102.5,top10console,10.0
+PS2,Grand Theft Auto III,Sony,97,8.5,105.5,top10console,1.0
+PS2,Resident Evil 4,Sony,96,9.0,105.0,top10console,2.0
+PS2,Metal Gear Solid 2: Sons of Liberty,Sony,96,8.8,104.8,top10console,3.0
+PS2,Tony Hawk's Pro Skater 3,Sony,97,7.5,104.5,top10console,4.0
+PS2,Grand Theft Auto: San Andreas,Sony,95,9.0,104.0,top10console,5.0
+PS2,Grand Theft Auto: Vice City,Sony,95,8.8,103.8,top10console,6.0
+PS2,Gran Turismo 3: A-Spec,Sony,95,8.4,103.4,top10console,7.0
+PS2,Metal Gear Solid 3: Subsistence,Sony,94,8.9,102.9,top10console,8.0
+PS2,God of War,Sony,94,8.9,102.9,top10console,9.0
+PS2,NCAA Football 2004,Sony,94,8.7,102.7,top10console,10.0
+PS,Tony Hawk's Pro Skater 2,Sony,98,7.4,105.4,top10console,1.0
+PS,Final Fantasy IX,Sony,94,9.2,103.2,top10console,2.0
+PS,Chrono Cross,Sony,94,8.8,102.8,top10console,3.0
+PS,Vagrant Story,Sony,92,9.0,101.0,top10console,4.0
+PS,Spyro: Year of the Dragon,Sony,91,8.9,99.9,top10console,5.0
+PS,Dance Dance Revolution,Sony,90,8.8,98.8,top10console,6.0
+PS,WWF SmackDown! 2: Know Your Role,Sony,90,8.7,98.7,top10console,7.0
+PS,Final Fantasy Chronicles,Sony,89,9.4,98.4,top10console,8.0
+PS,Colin McRae Rally 2.0,Sony,90,8.2,98.2,top10console,9.0
+PS,Madden NFL 2001,Sony,90,6.8,96.8,top10console,10.0
+PC,The Orange Box,PC,96,9.2,105.2,top10console,1.0
+PC,Half-Life 2,PC,96,9.1,105.1,top10console,2.0
+PC,BioShock,PC,96,8.5,104.5,top10console,3.0
+PC,Baldur's Gate II: Shadows of Amn,PC,95,9.2,104.2,top10console,4.0
+PC,Portal 2,PC,95,9.0,104.0,top10console,5.0
+PC,Grand Theft Auto V,PC,96,7.7,103.7,top10console,6.0
+PC,Mass Effect 2,PC,94,8.8,102.8,top10console,7.0
+PC,Grand Theft Auto: Vice City,PC,94,8.8,102.8,top10console,8.0
+PC,BioShock Infinite,PC,94,8.6,102.6,top10console,9.0
+PC,The Witcher 3: Wild Hunt,PC,93,9.3,102.3,top10console,10.0
+N64,Perfect Dark,Nintendo,97,8.9,105.9,top10console,1.0
+N64,The Legend of Zelda: Majora's Mask,Nintendo,95,9.1,104.1,top10console,2.0
+N64,Paper Mario,Nintendo,93,9.1,102.1,top10console,3.0
+N64,Conker's Bad Fur Day,Nintendo,92,9.1,101.1,top10console,4.0
+N64,Mario Tennis,Nintendo,91,8.9,99.9,top10console,5.0
+N64,Banjo-Tooie,Nintendo,90,9.0,99.0,top10console,6.0
+N64,WWF No Mercy,Nintendo,89,8.8,97.8,top10console,7.0
+N64,Excitebike 64,Nintendo,88,8.0,96.0,top10console,8.0
+N64,Tony Hawk's Pro Skater 2,Nintendo,84,8.8,92.8,top10console,9.0
+N64,Star Wars: Episode I Battle for Naboo,Nintendo,84,7.9,91.9,top10console,10.0
+GC,Metroid Prime,Nintendo,97,9.2,106.2,top10console,1.0
+GC,Resident Evil 4,Nintendo,96,9.3,105.3,top10console,2.0
+GC,The Legend of Zelda: Twilight Princess,Nintendo,96,8.9,104.9,top10console,3.0
+GC,The Legend of Zelda: The Wind Waker,Nintendo,96,8.9,104.9,top10console,4.0
+GC,The Legend of Zelda Collector's Edition,Nintendo,95,9.0,104.0,top10console,5.0
+GC,SoulCalibur II,Nintendo,93,8.8,101.8,top10console,6.0
+GC,Viewtiful Joe,Nintendo,93,8.3,101.3,top10console,7.0
+GC,Super Smash Bros. Melee,Nintendo,92,9.1,101.1,top10console,8.0
+GC,Madden NFL 2004,Nintendo,94,7.0,101.0,top10console,9.0
+GC,Metroid Prime 2: Echoes,Nintendo,92,8.8,100.8,top10console,10.0
+GBA,The Legend of Zelda: A Link to the Past,Nintendo,95,8.9,103.9,top10console,1.0
+GBA,Super Mario Advance 4: Super Mario Bros. 3,Nintendo,94,8.9,102.9,top10console,2.0
+GBA,Tony Hawk's Pro Skater 2,Nintendo,95,7.1,102.1,top10console,3.0
+GBA,Final Fantasy VI Advance,Nintendo,92,9.3,101.3,top10console,4.0
+GBA,Mario Kart Super Circuit,Nintendo,93,8.2,101.2,top10console,5.0
+GBA,Advance Wars,Nintendo,92,9.0,101.0,top10console,6.0
+GBA,Metroid Fusion,Nintendo,92,9.0,101.0,top10console,7.0
+GBA,Super Mario World: Super Mario Advance 2,Nintendo,92,8.9,100.9,top10console,8.0
+GBA,Golden Sun,Nintendo,91,9.0,100.0,top10console,9.0
+GBA,Yoshi's Island: Super Mario Advance 3,Nintendo,91,8.9,99.9,top10console,10.0
+DS,Flipnote Studio,Nintendo,93,8.4,101.4,top10console,1.0
+DS,Grand Theft Auto: Chinatown Wars,Nintendo,93,8.2,101.2,top10console,2.0
+DS,Chrono Trigger,Nintendo,92,9.2,101.2,top10console,3.0
+DS,Mario Kart DS,Nintendo,91,8.6,99.6,top10console,4.0
+DS,Advance Wars: Dual Strike,Nintendo,90,8.9,98.9,top10console,5.0
+DS,Mario & Luigi: Bowser's Inside Story,Nintendo,90,8.7,98.7,top10console,6.0
+DS,The Legend of Zelda: Phantom Hourglass,Nintendo,90,8.0,98.0,top10console,7.0
+DS,New Super Mario Bros.,Nintendo,89,8.5,97.5,top10console,8.0
+DS,Castlevania: Dawn of Sorrow,Nintendo,89,8.4,97.4,top10console,9.0
+DS,The World Ends with You,Nintendo,88,8.8,96.8,top10console,10.0
+DC,NFL 2K1,Sega,97,6.4,103.4,top10console,1.0
+DC,Tony Hawk's Pro Skater 2,Sega,97,6.2,103.2,top10console,2.0
+DC,Jet Grind Radio,Sega,94,8.0,102.0,top10console,3.0
+DC,Skies of Arcadia,Sega,93,8.9,101.9,top10console,4.0
+DC,Quake III Arena,Sega,93,8.1,101.1,top10console,5.0
+DC,Test Drive Le Mans,Sega,93,7.7,100.7,top10console,6.0
+DC,NBA 2K2,Sega,93,7.3,100.3,top10console,7.0
+DC,NBA 2K1,Sega,93,7.0,100.0,top10console,8.0
+DC,Unreal Tournament,Sega,90,8.8,98.8,top10console,9.0
+DC,Marvel vs. Capcom 2,Sega,90,8.8,98.8,top10console,10.0
+3DS,The Legend of Zelda: Ocarina of Time 3D,Nintendo,94,9.0,103.0,top10console,1.0
+3DS,Fire Emblem: Awakening,Nintendo,92,9.1,101.1,top10console,2.0
+3DS,The Legend of Zelda: A Link Between Worlds,Nintendo,91,9.0,100.0,top10console,3.0
+3DS,Super Mario 3D Land,Nintendo,90,8.4,98.4,top10console,4.0
+3DS,Shovel Knight,Nintendo,90,8.3,98.3,top10console,5.0
+3DS,Pushmo,Nintendo,90,8.3,98.3,top10console,6.0
+3DS,The Legend of Zelda: Majora's Mask 3D,Nintendo,89,8.9,97.9,top10console,7.0
+3DS,3D Gunstar Heroes,Nintendo,89,7.9,96.9,top10console,8.0
+3DS,Colors! 3D,Nintendo,89,7.8,96.8,top10console,9.0
+3DS,Zero Escape: Virtue's Last Reward,Nintendo,88,8.8,96.8,top10console,10.0
+3DS,Tenkai Knights: Brave Battle,Nintendo,26,2.7,28.7,worst10console,1.0
+3DS,Transformers: Dark of the Moon - Stealth Force Edition,Nintendo,30,3.3,33.3,worst10console,2.0
+3DS,Power Rangers Megaforce,Nintendo,30,4.8,34.8,worst10console,3.0
+3DS,Langrisser Re:Incarnation -TENSEI-,Nintendo,35,6.3,41.3,worst10console,4.0
+3DS,RollerCoaster Tycoon 3D,Nintendo,39,2.6,41.6,worst10console,5.0
+3DS,3D Classics: Urban Champion,Nintendo,37,5.8,42.8,worst10console,6.0
+3DS,Chronus Arc,Nintendo,40,5.4,45.4,worst10console,7.0
+3DS,Block Factory,Nintendo,42,5.3,47.3,worst10console,8.0
+3DS,Asphalt 3D,Nintendo,43,4.3,47.3,worst10console,9.0
+3DS,Pac-Man Party 3D,Nintendo,43,5.4,48.4,worst10console,10.0
+DC,Death Crimson OX,Sega,46,4.5,50.5,worst10console,1.0
+DC,Evil Dead: Hail to the King,Sega,49,6.0,55.0,worst10console,2.0
+DC,World Series Baseball 2K1,Sega,48,7.2,55.2,worst10console,3.0
+DC,Sonic Shuffle,Sega,54,7.2,61.2,worst10console,4.0
+DC,Toy Story 2: Buzz Lightyear to the Rescue!,Sega,57,6.6,63.6,worst10console,5.0
+DC,Heavy Metal: Geomatrix,Sega,58,5.8,63.8,worst10console,6.0
+DC,Army Men: Sarge's Heroes,Sega,60,7.3,67.3,worst10console,7.0
+DC,Tomb Raider: Chronicles,Sega,59,8.3,67.3,worst10console,8.0
+DC,Virtua Athlete 2000,Sega,61,7.3,68.3,worst10console,9.0
+DC,Spawn: In the Demon's Hand,Sega,62,7.0,69.0,worst10console,10.0
+DS,Deal or No Deal,Nintendo,20,2.0,22.0,worst10console,1.0
+DS,Homie Rollerz,Nintendo,23,2.4,25.4,worst10console,2.0
+DS,Thundercats,Nintendo,28,1.1,29.1,worst10console,3.0
+DS,Ping Pals,Nintendo,28,3.9,31.9,worst10console,4.0
+DS,Duke Nukem: Critical Mass,Nintendo,29,3.3,32.3,worst10console,5.0
+DS,Godzilla Unleashed: Double Smash,Nintendo,28,4.9,32.9,worst10console,6.0
+DS,March of the Penguins,Nintendo,34,1.7,35.7,worst10console,7.0
+DS,Toy Shop,Nintendo,31,5.4,36.4,worst10console,8.0
+DS,Best of Tests DS,Nintendo,32,5.0,37.0,worst10console,9.0
+DS,Superman Returns,Nintendo,33,4.9,37.9,worst10console,10.0
+GBA,Legends of Wrestling II,Nintendo,24,3.7,27.7,worst10console,1.0
+GBA,Mucha Lucha! Mascaritas of the Lost Code,Nintendo,26,4.3,30.3,worst10console,2.0
+GBA,Fear Factor: Unleashed,Nintendo,30,3.0,33.0,worst10console,3.0
+GBA,Mortal Kombat Advance,Nintendo,33,2.0,35.0,worst10console,4.0
+GBA,David Beckham Soccer,Nintendo,34,4.2,38.2,worst10console,5.0
+GBA,Van Helsing,Nintendo,33,6.3,39.3,worst10console,6.0
+GBA,Yu Yu Hakusho: Spirit Detective,Nintendo,33,8.2,41.2,worst10console,7.0
+GBA,Star Wars Episode II: Attack of the Clones,Nintendo,38,4.3,42.3,worst10console,8.0
+GBA,Street Jam Basketball,Nintendo,35,8.0,43.0,worst10console,9.0
+GBA,Gauntlet: Dark Legacy,Nintendo,37,6.8,43.8,worst10console,10.0
+GC,Charlie's Angels,Nintendo,23,3.1,26.1,worst10console,1.0
+GC,Aquaman: Battle for Atlantis,Nintendo,27,2.8,29.8,worst10console,2.0
+GC,Batman: Dark Tomorrow,Nintendo,29,2.7,31.7,worst10console,3.0
+GC,Bad Boys: Miami Takedown,Nintendo,35,2.0,37.0,worst10console,4.0
+GC,The Sum of All Fears,Nintendo,36,3.4,39.4,worst10console,5.0
+GC,Disney Sports Skateboarding,Nintendo,36,4.7,40.7,worst10console,6.0
+GC,Jeremy McGrath Supercross World,Nintendo,36,5.6,41.6,worst10console,7.0
+GC,Universal Studios Theme Parks Adventure,Nintendo,39,2.9,41.9,worst10console,8.0
+GC,Charlie and the Chocolate Factory,Nintendo,39,3.2,42.2,worst10console,9.0
+GC,"Monsters, Inc. Scream Arena",Nintendo,39,4.7,43.7,worst10console,10.0
+N64,Cruis'n Exotica,Nintendo,43,7.3,50.3,worst10console,1.0
+N64,Army Men: Sarge's Heroes 2,Nintendo,46,6.8,52.8,worst10console,2.0
+N64,Fighter Destiny 2,Nintendo,54,6.6,60.6,worst10console,3.0
+N64,Aidyn Chronicles: The First Mage,Nintendo,53,7.8,60.8,worst10console,4.0
+N64,Hercules: The Legendary Journeys,Nintendo,55,7.4,62.4,worst10console,5.0
+N64,"Hey You, Pikachu!",Nintendo,57,6.4,63.4,worst10console,6.0
+N64,Duck Dodgers Starring Daffy Duck,Nintendo,69,8.4,77.4,worst10console,7.0
+N64,Mickey's Speedway USA,Nintendo,71,7.3,78.3,worst10console,8.0
+N64,Spider-Man,Nintendo,72,6.9,78.9,worst10console,9.0
+N64,Dr. Mario 64,Nintendo,71,7.9,78.9,worst10console,10.0
+PC,Ride to Hell: Retribution,PC,16,1.2,17.2,worst10console,1.0
+PC,Alone in the Dark: Illumination,PC,19,1.2,20.2,worst10console,2.0
+PC,Infestation: Survivor Stories The War Z,PC,20,1.7,21.7,worst10console,3.0
+PC,Leisure Suit Larry: Box Office Bust,PC,20,2.3,22.3,worst10console,4.0
+PC,FlatOut 3: Chaos & Destruction,PC,23,3.3,26.3,worst10console,5.0
+PC,Terrawars: New York Invasion,PC,24,2.4,26.4,worst10console,6.0
+PC,Postal III,PC,24,3.0,27.0,worst10console,7.0
+PC,R.I.P.D. The Game,PC,26,1.5,27.5,worst10console,8.0
+PC,Call for Heroes: Pompolic Wars,PC,25,3.2,28.2,worst10console,9.0
+PC,Survivor 2001,PC,26,2.6,28.6,worst10console,10.0
+PS,KISS Pinball,Sony,26,3.8,29.8,worst10console,1.0
+PS,HBO Boxing,Sony,26,4.0,30.0,worst10console,2.0
+PS,Dragon Ball Z: Ultimate Battle 22,Sony,25,5.0,30.0,worst10console,3.0
+PS,Mortal Kombat: Special Forces,Sony,28,2.1,30.1,worst10console,4.0
+PS,The Simpsons Wrestling,Sony,32,5.5,37.5,worst10console,5.0
+PS,Duke Nukem: Land of the Babes,Sony,37,6.7,43.7,worst10console,6.0
+PS,Resident Evil: Survivor,Sony,39,6.5,45.5,worst10console,7.0
+PS,Danger Girl,Sony,43,5.5,48.5,worst10console,8.0
+PS,ECW Anarchy Rulz,Sony,43,6.3,49.3,worst10console,9.0
+PS,Army Men: Sarge's Heroes 2,Sony,48,7.0,55.0,worst10console,10.0
+PS2,Gravity Games Bike: Street Vert Dirt,Sony,24,4.0,28.0,worst10console,1.0
+PS2,GoDai: Elemental Force,Sony,27,3.8,30.8,worst10console,2.0
+PS2,MTV's Celebrity Deathmatch,Sony,32,3.2,35.2,worst10console,3.0
+PS2,Women's Volleyball Championship,Sony,32,4.0,36.0,worst10console,4.0
+PS2,Mike Tyson Heavyweight Boxing,Sony,33,3.5,36.5,worst10console,5.0
+PS2,McFarlane's Evil Prophecy,Sony,34,3.2,37.2,worst10console,6.0
+PS2,Jeremy McGrath Supercross World,Sony,35,3.4,38.4,worst10console,7.0
+PS2,Charlie and the Chocolate Factory,Sony,35,4.1,39.1,worst10console,8.0
+PS2,Fugitive Hunter: War on Terror,Sony,35,5.0,40.0,worst10console,9.0
+PS2,Pimp My Ride,Sony,36,4.4,40.4,worst10console,10.0
+PS3,Leisure Suit Larry: Box Office Bust,Sony,17,1.9,18.9,worst10console,1.0
+PS3,Rambo: The Video Game,Sony,23,1.5,24.5,worst10console,2.0
+PS3,NBA Unrivaled,Sony,24,0.9,24.9,worst10console,3.0
+PS3,Rogue Warrior,Sony,27,2.8,29.8,worst10console,4.0
+PS3,Vampire Rain: Altered Species,Sony,30,3.5,33.5,worst10console,5.0
+PS3,DreamWorks Kung Fu Panda 2,Sony,31,3.5,34.5,worst10console,6.0
+PS3,Kick-Ass,Sony,33,2.8,35.8,worst10console,7.0
+PS3,AMY,Sony,33,2.9,35.9,worst10console,8.0
+PS3,Magus,Sony,32,4.4,36.4,worst10console,9.0
+PS3,Power Gig: Rise of the SixString,Sony,36,0.5,36.5,worst10console,10.0
+PS4,Afro Samurai 2: Revenge of Kuma Volume One,Sony,21,2.6,23.6,worst10console,1.0
+PS4,Road Rage,Sony,26,2.5,28.5,worst10console,2.0
+PS4,Basement Crawl,Sony,27,2.8,29.8,worst10console,3.0
+PS4,Ghostbusters,Sony,30,1.0,31.0,worst10console,4.0
+PS4,Air Conflicts: Vietnam Ultimate Edition,Sony,30,1.6,31.6,worst10console,5.0
+PS4,Tony Hawk's Pro Skater 5,Sony,32,1.4,33.4,worst10console,6.0
+PS4,Weeping Doll,Sony,32,2.8,34.8,worst10console,7.0
+PS4,Dino Dini's Kick Off Revival,Sony,31,4.7,35.7,worst10console,8.0
+PS4,One Piece: Grand Cruise,Sony,35,2.3,37.3,worst10console,9.0
+PS4,Alekhine's Gun,Sony,36,3.8,39.8,worst10console,10.0
+PSP,Dragon Ball: Evolution,Sony,28,0.9,28.9,worst10console,1.0
+PSP,Dave Mirra BMX Challenge,Sony,32,4.6,36.6,worst10console,2.0
+PSP,TMNT,Sony,37,4.0,41.0,worst10console,3.0
+PSP,Napoleon Dynamite: The Game,Sony,37,4.6,41.6,worst10console,4.0
+PSP,Legend of the Dragon,Sony,38,5.3,43.3,worst10console,5.0
+PSP,Dead or Alive Paradise,Sony,38,5.7,43.7,worst10console,6.0
+PSP,Mana Khemia: Student Alliance,Sony,41,5.6,46.6,worst10console,7.0
+PSP,Rengoku: The Tower of Purgatory,Sony,43,5.9,48.9,worst10console,8.0
+PSP,Hellboy: The Science of Evil,Sony,42,7.0,49.0,worst10console,9.0
+PSP,Iron Man,Sony,44,6.4,50.4,worst10console,10.0
+Switch,Vroom in the Night Sky,Nintendo,17,3.1,20.1,worst10console,1.0
+Switch,Fantasy Hero: Unsigned Legacy,Nintendo,34,4.3,38.3,worst10console,2.0
+Switch,Hollow,Nintendo,36,6.1,42.1,worst10console,3.0
+Switch,Touhou Kobuto V: Burst Battle,Nintendo,38,4.6,42.6,worst10console,4.0
+Switch,The Deer God,Nintendo,39,4.4,43.4,worst10console,5.0
+Switch,Hello Neighbor,Nintendo,39,5.2,44.2,worst10console,6.0
+Switch,Senran Kagura Reflexions,Nintendo,39,8.2,47.2,worst10console,7.0
+Switch,Vaccine,Nintendo,44,5.6,49.6,worst10console,8.0
+Switch,Scribblenauts Showdown,Nintendo,47,4.0,51.0,worst10console,9.0
+Switch,Morphies Law,Nintendo,49,5.9,54.9,worst10console,10.0
+VITA,Call of Duty: Black Ops Declassified,Sony,33,4.9,37.9,worst10console,1.0
+VITA,Tokyo Tattoo Girls,Sony,36,5.4,41.4,worst10console,2.0
+VITA,Drive Girls,Sony,39,5.5,44.5,worst10console,3.0
+VITA,Chronovolt,Sony,44,3.2,47.2,worst10console,4.0
+VITA,Lets Fish! Hooked On,Sony,41,6.5,47.5,worst10console,5.0
+VITA,Ridge Racer,Sony,44,3.7,47.7,worst10console,6.0
+VITA,Asphalt: Injection,Sony,49,5.0,54.0,worst10console,7.0
+VITA,The Muppets: Movie Adventures,Sony,48,6.5,54.5,worst10console,8.0
+VITA,Valhalla Knights 3,Sony,48,6.9,54.9,worst10console,9.0
+VITA,Dungeon Hunter: Alliance,Sony,49,6.4,55.4,worst10console,10.0
+WII,SPOGS Racing,Nintendo,18,3.6,21.6,worst10console,1.0
+WII,Cruis'n,Nintendo,25,3.7,28.7,worst10console,2.0
+WII,Jenga World Tour,Nintendo,26,2.8,28.8,worst10console,3.0
+WII,Game Party,Nintendo,25,3.8,28.8,worst10console,4.0
+WII,Chicken Shoot,Nintendo,27,4.6,31.6,worst10console,5.0
+WII,Looney Tunes: Acme Arsenal,Nintendo,27,5.1,32.1,worst10console,6.0
+WII,Pool Party,Nintendo,32,0.5,32.5,worst10console,7.0
+WII,Game Party 2,Nintendo,29,4.6,33.6,worst10console,8.0
+WII,Target: Terror,Nintendo,33,3.0,36.0,worst10console,9.0
+WII,Transformers: Dark of the Moon - Stealth Force Edition,Nintendo,34,2.5,36.5,worst10console,10.0
+WIIU,Family Party: 30 Great Games Obstacle Arcade,Nintendo,11,1.0,12.0,worst10console,1.0
+WIIU,Game Party Champions,Nintendo,24,3.4,27.4,worst10console,2.0
+WIIU,ESPN Sports Connection,Nintendo,31,2.7,33.7,worst10console,3.0
+WIIU,Sonic Boom: Rise of Lyric,Nintendo,32,3.5,35.5,worst10console,4.0
+WIIU,Adventure Time: Explore the Dungeon Because I DON'T KNOW!,Nintendo,40,5.0,45.0,worst10console,5.0
+WIIU,Ben 10: Omniverse,Nintendo,43,6.0,49.0,worst10console,6.0
+WIIU,Devil's Third,Nintendo,43,6.6,49.6,worst10console,7.0
+WIIU,Animal Crossing: amiibo Festival,Nintendo,46,4.3,50.3,worst10console,8.0
+WIIU,Tank! Tank! Tank!,Nintendo,45,5.7,50.7,worst10console,9.0
+WIIU,Rodea the Sky Soldier,Nintendo,45,6.4,51.4,worst10console,10.0
+X360,Double Dragon II: Wander of the Dragons,Microsoft,17,1.5,18.5,worst10console,1.0
+X360,Ride to Hell: Retribution,Microsoft,19,1.2,20.2,worst10console,2.0
+X360,Yaris,Microsoft,17,4.2,21.2,worst10console,3.0
+X360,Fast & Furious: Showdown,Microsoft,22,1.0,23.0,worst10console,4.0
+X360,Leisure Suit Larry: Box Office Bust,Microsoft,25,2.5,27.5,worst10console,5.0
+X360,AMY,Microsoft,25,3.9,28.9,worst10console,6.0
+X360,NBA Unrivaled,Microsoft,25,4.3,29.3,worst10console,7.0
+X360,Deca Sports Freedom,Microsoft,26,3.7,29.7,worst10console,8.0
+X360,Rambo: The Video Game,Microsoft,28,2.2,30.2,worst10console,9.0
+X360,Rogue Warrior,Microsoft,28,2.8,30.8,worst10console,10.0
+XBOX,Drake of the 99 Dragons,Microsoft,22,1.8,23.8,worst10console,1.0
+XBOX,Pulse Racer,Microsoft,24,2.8,26.8,worst10console,2.0
+XBOX,Batman: Dark Tomorrow,Microsoft,25,3.4,28.4,worst10console,3.0
+XBOX,Aquaman: Battle for Atlantis,Microsoft,26,2.7,28.7,worst10console,4.0
+XBOX,Stake: Fortune Fighters,Microsoft,26,3.7,29.7,worst10console,5.0
+XBOX,Sneakers,Microsoft,28,3.7,31.7,worst10console,6.0
+XBOX,Robocop,Microsoft,30,3.9,33.9,worst10console,7.0
+XBOX,Crime Life: Gang Wars,Microsoft,30,4.4,34.4,worst10console,8.0
+XBOX,Bruce Lee: Quest of the Dragon,Microsoft,32,2.4,34.4,worst10console,9.0
+XBOX,Kabuki Warriors,Microsoft,32,2.5,34.5,worst10console,10.0
+XONE,Fighter Within,Microsoft,23,2.8,25.8,worst10console,1.0
+XONE,Ghostbusters,Microsoft,32,0.4,32.4,worst10console,2.0
+XONE,Soda Drinker Pro,Microsoft,30,5.9,35.9,worst10console,3.0
+XONE,Gene Rain,Microsoft,32,4.5,36.5,worst10console,4.0
+XONE,Giana Sisters: Dream Runners,Microsoft,32,4.7,36.7,worst10console,5.0
+XONE,Agony,Microsoft,34,4.4,38.4,worst10console,6.0
+XONE,NBA Live 14,Microsoft,36,3.1,39.1,worst10console,7.0
+XONE,7 Days to Die,Microsoft,35,5.4,40.4,worst10console,8.0
+XONE,Past Cure,Microsoft,34,6.7,40.7,worst10console,9.0
+XONE,Tony Hawk's Pro Skater 5,Microsoft,39,2.1,41.1,worst10console,10.0
+PS2,Grand Theft Auto III,Sony,97,8.5,105.5,top10company,1.0
+PS3,Grand Theft Auto IV,Sony,98,7.5,105.5,top10company,2.0
+PS,Tony Hawk's Pro Skater 2,Sony,98,7.4,105.4,top10company,3.0
+PS3,Grand Theft Auto V,Sony,97,8.3,105.3,top10company,4.0
+PS4,Grand Theft Auto V,Sony,97,8.3,105.3,top10company,5.0
+PS2,Resident Evil 4,Sony,96,9.0,105.0,top10company,6.0
+PS3,Uncharted 2: Among Thieves,Sony,96,8.9,104.9,top10company,7.0
+PS2,Metal Gear Solid 2: Sons of Liberty,Sony,96,8.8,104.8,top10company,8.0
+PS3,Batman: Arkham City,Sony,96,8.7,104.7,top10company,9.0
+PS4,Red Dead Redemption 2,Sony,97,7.7,104.7,top10company,10.0
+DC,NFL 2K1,Sega,97,6.4,103.4,top10company,1.0
+DC,Tony Hawk's Pro Skater 2,Sega,97,6.2,103.2,top10company,2.0
+DC,Jet Grind Radio,Sega,94,8.0,102.0,top10company,3.0
+DC,Skies of Arcadia,Sega,93,8.9,101.9,top10company,4.0
+DC,Quake III Arena,Sega,93,8.1,101.1,top10company,5.0
+DC,Test Drive Le Mans,Sega,93,7.7,100.7,top10company,6.0
+DC,NBA 2K2,Sega,93,7.3,100.3,top10company,7.0
+DC,NBA 2K1,Sega,93,7.0,100.0,top10company,8.0
+DC,Unreal Tournament,Sega,90,8.8,98.8,top10company,9.0
+DC,Marvel vs. Capcom 2,Sega,90,8.8,98.8,top10company,10.0
+PC,The Orange Box,PC,96,9.2,105.2,top10company,1.0
+PC,Half-Life 2,PC,96,9.1,105.1,top10company,2.0
+PC,BioShock,PC,96,8.5,104.5,top10company,3.0
+PC,Baldur's Gate II: Shadows of Amn,PC,95,9.2,104.2,top10company,4.0
+PC,Portal 2,PC,95,9.0,104.0,top10company,5.0
+PC,Grand Theft Auto V,PC,96,7.7,103.7,top10company,6.0
+PC,Mass Effect 2,PC,94,8.8,102.8,top10company,7.0
+PC,Grand Theft Auto: Vice City,PC,94,8.8,102.8,top10company,8.0
+PC,BioShock Infinite,PC,94,8.6,102.6,top10company,9.0
+PC,The Witcher 3: Wild Hunt,PC,93,9.3,102.3,top10company,10.0
+GC,Metroid Prime,Nintendo,97,9.2,106.2,top10company,1.0
+WII,Super Mario Galaxy 2,Nintendo,97,9.1,106.1,top10company,2.0
+WII,Super Mario Galaxy,Nintendo,97,9.0,106.0,top10company,3.0
+N64,Perfect Dark,Nintendo,97,8.9,105.9,top10company,4.0
+Switch,Super Mario Odyssey,Nintendo,97,8.9,105.9,top10company,5.0
+Switch,The Legend of Zelda: Breath of the Wild,Nintendo,97,8.5,105.5,top10company,6.0
+GC,Resident Evil 4,Nintendo,96,9.3,105.3,top10company,7.0
+GC,The Legend of Zelda: Twilight Princess,Nintendo,96,8.9,104.9,top10company,8.0
+GC,The Legend of Zelda: The Wind Waker,Nintendo,96,8.9,104.9,top10company,9.0
+WIIU,The Legend of Zelda: Breath of the Wild,Nintendo,96,8.2,104.2,top10company,10.0
+X360,Grand Theft Auto IV,Microsoft,98,7.9,105.9,top10company,1.0
+XBOX,Halo: Combat Evolved,Microsoft,97,8.6,105.6,top10company,2.0
+X360,Grand Theft Auto V,Microsoft,97,8.3,105.3,top10company,3.0
+X360,Mass Effect 2,Microsoft,96,8.9,104.9,top10company,4.0
+X360,BioShock,Microsoft,96,8.9,104.9,top10company,5.0
+X360,The Orange Box,Microsoft,96,8.8,104.8,top10company,6.0
+XONE,Grand Theft Auto V,Microsoft,97,7.8,104.8,top10company,7.0
+X360,The Elder Scrolls V: Skyrim,Microsoft,96,8.5,104.5,top10company,8.0
+X360,Red Dead Redemption,Microsoft,95,9.0,104.0,top10company,9.0
+XBOX,Grand Theft Auto Double Pack,Microsoft,96,8.0,104.0,top10company,10.0
+X360,Double Dragon II: Wander of the Dragons,Microsoft,17,1.5,18.5,worst10company,1.0
+X360,Ride to Hell: Retribution,Microsoft,19,1.2,20.2,worst10company,2.0
+X360,Yaris,Microsoft,17,4.2,21.2,worst10company,3.0
+X360,Fast & Furious: Showdown,Microsoft,22,1.0,23.0,worst10company,4.0
+XBOX,Drake of the 99 Dragons,Microsoft,22,1.8,23.8,worst10company,5.0
+XONE,Fighter Within,Microsoft,23,2.8,25.8,worst10company,6.0
+XBOX,Pulse Racer,Microsoft,24,2.8,26.8,worst10company,7.0
+X360,Leisure Suit Larry: Box Office Bust,Microsoft,25,2.5,27.5,worst10company,8.0
+XBOX,Batman: Dark Tomorrow,Microsoft,25,3.4,28.4,worst10company,9.0
+XBOX,Aquaman: Battle for Atlantis,Microsoft,26,2.7,28.7,worst10company,10.0
+WIIU,Family Party: 30 Great Games Obstacle Arcade,Nintendo,11,1.0,12.0,worst10company,1.0
+Switch,Vroom in the Night Sky,Nintendo,17,3.1,20.1,worst10company,2.0
+WII,SPOGS Racing,Nintendo,18,3.6,21.6,worst10company,3.0
+DS,Deal or No Deal,Nintendo,20,2.0,22.0,worst10company,4.0
+DS,Homie Rollerz,Nintendo,23,2.4,25.4,worst10company,5.0
+GC,Charlie's Angels,Nintendo,23,3.1,26.1,worst10company,6.0
+WIIU,Game Party Champions,Nintendo,24,3.4,27.4,worst10company,7.0
+GBA,Legends of Wrestling II,Nintendo,24,3.7,27.7,worst10company,8.0
+3DS,Tenkai Knights: Brave Battle,Nintendo,26,2.7,28.7,worst10company,9.0
+WII,Cruis'n,Nintendo,25,3.7,28.7,worst10company,10.0
+PC,Ride to Hell: Retribution,PC,16,1.2,17.2,worst10company,1.0
+PC,Alone in the Dark: Illumination,PC,19,1.2,20.2,worst10company,2.0
+PC,Infestation: Survivor Stories The War Z,PC,20,1.7,21.7,worst10company,3.0
+PC,Leisure Suit Larry: Box Office Bust,PC,20,2.3,22.3,worst10company,4.0
+PC,FlatOut 3: Chaos & Destruction,PC,23,3.3,26.3,worst10company,5.0
+PC,Terrawars: New York Invasion,PC,24,2.4,26.4,worst10company,6.0
+PC,Postal III,PC,24,3.0,27.0,worst10company,7.0
+PC,R.I.P.D. The Game,PC,26,1.5,27.5,worst10company,8.0
+PC,Call for Heroes: Pompolic Wars,PC,25,3.2,28.2,worst10company,9.0
+PC,Survivor 2001,PC,26,2.6,28.6,worst10company,10.0
+DC,Death Crimson OX,Sega,46,4.5,50.5,worst10company,1.0
+DC,Evil Dead: Hail to the King,Sega,49,6.0,55.0,worst10company,2.0
+DC,World Series Baseball 2K1,Sega,48,7.2,55.2,worst10company,3.0
+DC,Sonic Shuffle,Sega,54,7.2,61.2,worst10company,4.0
+DC,Toy Story 2: Buzz Lightyear to the Rescue!,Sega,57,6.6,63.6,worst10company,5.0
+DC,Heavy Metal: Geomatrix,Sega,58,5.8,63.8,worst10company,6.0
+DC,Army Men: Sarge's Heroes,Sega,60,7.3,67.3,worst10company,7.0
+DC,Tomb Raider: Chronicles,Sega,59,8.3,67.3,worst10company,8.0
+DC,Virtua Athlete 2000,Sega,61,7.3,68.3,worst10company,9.0
+DC,Spawn: In the Demon's Hand,Sega,62,7.0,69.0,worst10company,10.0
+PS3,Leisure Suit Larry: Box Office Bust,Sony,17,1.9,18.9,worst10company,1.0
+PS4,Afro Samurai 2: Revenge of Kuma Volume One,Sony,21,2.6,23.6,worst10company,2.0
+PS3,Rambo: The Video Game,Sony,23,1.5,24.5,worst10company,3.0
+PS3,NBA Unrivaled,Sony,24,0.9,24.9,worst10company,4.0
+PS2,Gravity Games Bike: Street Vert Dirt,Sony,24,4.0,28.0,worst10company,5.0
+PS4,Road Rage,Sony,26,2.5,28.5,worst10company,6.0
+PSP,Dragon Ball: Evolution,Sony,28,0.9,28.9,worst10company,7.0
+PS,KISS Pinball,Sony,26,3.8,29.8,worst10company,8.0
+PS3,Rogue Warrior,Sony,27,2.8,29.8,worst10company,9.0
+PS4,Basement Crawl,Sony,27,2.8,29.8,worst10company,10.0
+GC,Metroid Prime,Nintendo,97,9.2,106.2,top10all,1.0
+WII,Super Mario Galaxy 2,Nintendo,97,9.1,106.1,top10all,2.0
+WII,Super Mario Galaxy,Nintendo,97,9.0,106.0,top10all,3.0
+Switch,Super Mario Odyssey,Nintendo,97,8.9,105.9,top10all,4.0
+N64,Perfect Dark,Nintendo,97,8.9,105.9,top10all,5.0
+X360,Grand Theft Auto IV,Microsoft,98,7.9,105.9,top10all,6.0
+XBOX,Halo: Combat Evolved,Microsoft,97,8.6,105.6,top10all,7.0
+Switch,The Legend of Zelda: Breath of the Wild,Nintendo,97,8.5,105.5,top10all,8.0
+PS2,Grand Theft Auto III,Sony,97,8.5,105.5,top10all,9.0
+PS3,Grand Theft Auto IV,Sony,98,7.5,105.5,top10all,10.0
+WIIU,Family Party: 30 Great Games Obstacle Arcade,Nintendo,11,1.0,12.0,worst10all,10.0
+PC,Ride to Hell: Retribution,PC,16,1.2,17.2,worst10all,9.0
+X360,Double Dragon II: Wander of the Dragons,Microsoft,17,1.5,18.5,worst10all,8.0
+PS3,Leisure Suit Larry: Box Office Bust,Sony,17,1.9,18.9,worst10all,7.0
+Switch,Vroom in the Night Sky,Nintendo,17,3.1,20.1,worst10all,6.0
+PC,Alone in the Dark: Illumination,PC,19,1.2,20.2,worst10all,4.0
+X360,Ride to Hell: Retribution,Microsoft,19,1.2,20.2,worst10all,5.0
+X360,Yaris,Microsoft,17,4.2,21.2,worst10all,3.0
+WII,SPOGS Racing,Nintendo,18,3.6,21.6,worst10all,2.0
+PC,Infestation: Survivor Stories The War Z,PC,20,1.7,21.7,worst10all,1.0
