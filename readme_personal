@@ -19,5 +19,6 @@ I choose Docker because its a easy way to run Python code in any enviroment. To 
 docker run -v localpath:/de-challenge/OutputFiles franciscontreras/walmart_etl:v1
 where localpath can be any folder in your local drive
 this option make a local mount with the container folder named OutputFiles
+**the two options need Docker to be installed
 
 Greetings
