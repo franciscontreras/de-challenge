@@ -5,7 +5,7 @@ First of all, thanks for give me the chance to take this test.
 Im gonna explain about my solution
 
 ETL Job
-I choose pandas, because its an easy way to load and transform data in python, maybe it can be PySpark too but this time i prefer pandas. I create some functions to take apart the main code from the clean, transformation and making ranking steps. Then i export to csv file because its an easy way to show the results but it can be a database connection or something else.
+I choose pandas, because its an easy way to load and transform data in python, maybe it can be PySpark too but this time i prefer pandas. I create some functions to take apart the main code from the clean, transformation and making ranking steps. Then i export to csv file (OutputFiles/rankings.csv) because its an easy way to show the results but it can be a database connection or something else.
 
 Data Model
 I choose ERD Tool from pgAdmin 4 because its was already installed on my personal computer and used to use this database for pesonal projects.
